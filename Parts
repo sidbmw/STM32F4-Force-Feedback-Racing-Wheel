@@ -1,0 +1,10 @@
+Cycle test for Steering Wheel, power like a logitech steering wheel
+
+Parts : 
+- Motor DC 12v RS775 
+- Alumunium Pulley 1.5" - 4" (2x) 
+- Steering Wheel 30cm
+
+Software : 
+- Arduino Leonardo (ai-wave firmware) 
+- iracing - wheel check
