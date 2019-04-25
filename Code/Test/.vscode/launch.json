@@ -1,0 +1,34 @@
+// AUTOMATICALLY GENERATED FILE. PLEASE DO NOT MODIFY IT MANUALLY
+
+// PIO Unified Debugger
+//
+// Documentation: https://docs.platformio.org/page/plus/debugging.html
+// Configuration: https://docs.platformio.org/page/projectconf/section_env_debug.html
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug",
+            "executable": "/home/nsiddharth/Documents/PlatformIO/Projects/190425-002213-mbed-blink/.pioenvs/disco_f407vg/firmware.elf",
+            "toolchainBinDir": "/home/nsiddharth/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "svdPath": "/home/nsiddharth/.platformio/platforms/ststm32/misc/svd/STM32F40x.svd",
+            "preLaunchTask": {
+                "type": "PlatformIO",
+                "task": "Pre-Debug"
+            },
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (skip Pre-Debug)",
+            "executable": "/home/nsiddharth/Documents/PlatformIO/Projects/190425-002213-mbed-blink/.pioenvs/disco_f407vg/firmware.elf",
+            "toolchainBinDir": "/home/nsiddharth/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "svdPath": "/home/nsiddharth/.platformio/platforms/ststm32/misc/svd/STM32F40x.svd",
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}
