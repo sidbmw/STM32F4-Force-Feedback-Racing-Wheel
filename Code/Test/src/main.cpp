@@ -12,6 +12,6 @@ int main() {
         // Print something over the serial connection
         pc.printf("Blink! LED is now %d\r\n", led1.read());
 
-        wait(0.5);
+        wait(0.125);
     }
 }

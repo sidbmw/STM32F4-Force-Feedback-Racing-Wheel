@@ -45,6 +45,9 @@
                 "/home/nsiddharth/.platformio/packages/framework-mbed/features/unsupported/USBHost/targets/TARGET_STM",
                 "/home/nsiddharth/.platformio/packages/tool-unity",
                 "/home/nsiddharth/Documents/PlatformIO/Projects/190425-002213-mbed-blink/include",
+                "/home/nsiddharth/Documents/GitHub/Arduino-Force-Feedback-Racing-Wheel/Code/Libraries/tm_stm32f4_timer_properties",
+                "/home/nsiddharth/Documents/GitHub/Arduino-Force-Feedback-Racing-Wheel/Code/Libraries/tm_stm32f4_pwm",
+                "/home/nsiddharth/Documents/GitHub/Arduino-Force-Feedback-Racing-Wheel/Code/Libraries/tm_stm32f4_gpio",
                 ""
             ],
             "browse": {
@@ -90,6 +93,9 @@
                     "/home/nsiddharth/.platformio/packages/framework-mbed/features/unsupported/USBHost/targets/TARGET_STM",
                     "/home/nsiddharth/.platformio/packages/tool-unity",
                     "/home/nsiddharth/Documents/PlatformIO/Projects/190425-002213-mbed-blink/include",
+                    "/home/nsiddharth/Documents/GitHub/Arduino-Force-Feedback-Racing-Wheel/Code/Libraries/tm_stm32f4_timer_properties",
+                    "/home/nsiddharth/Documents/GitHub/Arduino-Force-Feedback-Racing-Wheel/Code/Libraries/tm_stm32f4_pwm",
+                    "/home/nsiddharth/Documents/GitHub/Arduino-Force-Feedback-Racing-Wheel/Code/Libraries/tm_stm32f4_gpio",
                     ""
                 ]
             },
